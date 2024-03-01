@@ -1,8 +1,8 @@
 # Video_Firebase
 
-1. Set up Firebase for streaming:\n
->Sign in to Firebase and create a new project.
->Go to the Firebase Console and select your project.
+1. Set up Firebase for streaming:<\n>
+>Sign in to Firebase and create a new project.<\n>
+>Go to the Firebase Console and select your project.<\n>
 >Click on "Firestore Database" and set up Firestore to store your video frames.
 >Install Firebase Admin SDK in your Python environment using pip: pip install firebase-admin
 >Download the Firebase Admin SDK JSON file and place it in your project directory 
