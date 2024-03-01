@@ -1,6 +1,6 @@
 # Video_Firebase
 
-1. Set up Firebase for streaming:
+1. Set up Firebase for streaming:\n
 >Sign in to Firebase and create a new project.
 >Go to the Firebase Console and select your project.
 >Click on "Firestore Database" and set up Firestore to store your video frames.
